@@ -13,6 +13,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 .nav-title{
     color:black;
@@ -39,4 +40,15 @@ nav li{
     font-size: 20px;
     font-weight: 700;
     padding: 10px 30px;
+}
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    padding:30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profaill-pic{
+width: 500px;
 }
